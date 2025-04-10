@@ -54,3 +54,6 @@ python src/gui.py
 ```
 
 运行后会出现一个半透明的悬浮窗口，可以通过鼠标拖动调整位置，点击开始后分析主屏幕上的强化符文强度。
+
+## 编程小白简易教程
+下载AI编程软件，如trae（https://www.trae.com.cn/），并使用Builder模式向AI提问如何启动gui文件
