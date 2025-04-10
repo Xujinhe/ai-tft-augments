@@ -1,0 +1,5 @@
+{
+    "model": "qwen-vl-max-2025-04-02",
+    "api_key": "xxxxxxx",
+    "api_endpoint": "https://dashscope.aliyuncs.com/compatible-mode/v1"
+}
